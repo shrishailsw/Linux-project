@@ -11,7 +11,7 @@ This project demonstrates how to set up a **Simple Web Server** on a Linux syste
 
 ## 🧰 Tools & Technologies
 
-- Linux (Ubuntu/CentOS)
-- Apache or Python HTTP server
+- Linux (CentOS/RHEL)
+- Apache or HTTP server
 - Bash terminal
 - curl / browser for testing
