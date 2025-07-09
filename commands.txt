@@ -1,0 +1,15 @@
+##Update/Install Apache server/HTTP##
+yum install httpd -y
+
+##Create project directory##
+mkdir linux-project
+cd linux-project
+
+##Create a simple HTML file##
+cd /var/www/html
+cat > index.html
+      "this is sample document for download from the web server.fell free to dow        -nload and view!."
+
+ ##Use browser for testing##
+    firefox or elinks
+    http://ip address/index.html
